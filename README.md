@@ -21,4 +21,3 @@ Before turning the dial, a lot of people across the country had to wait for oper
 # File Descriptions
 The file is about the 911 emergency calls , what are the top town ships for 911 calls? and what are the most common reasons for it by making some data analysis of the existing dataset. Check my post on Medium 
 
-# Licensing, Authors, Acknowledgements
