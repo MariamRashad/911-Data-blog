@@ -11,9 +11,9 @@ Data science blog project
 Download Anaconda3 and run the file.
 
 # Project Motivation
-1-What are the top 5 townships  for 911 calls?
-2-What is the most common Reason for a 911 call ?
-3-How many calls does 911 recieve during a year ?
+1-What are the top 5 townships  for 911 calls?<br>
+2-What is the most common Reason for a 911 call ?<br>
+3-How many calls does 911 recieve during a year ?<br>
 # File Descriptions
 
 
