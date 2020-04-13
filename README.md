@@ -16,9 +16,9 @@ Before turning the dial, a lot of people across the country had to wait for oper
 
 ### according  to some dangerous situations that has happened and the gradual increase of the emergency calls Iam going to discuss the  following questions : <br>
 1-What are the top 5 townships  for 911 calls?<br>
-2-What is the most common Reason for a 911 call ?<br>
+2-What are the most common Reasons for a 911 call ?<br>
 3-How many calls does 911 recieve during a year ?<br>
 # File Descriptions
-
+The file is about the 911 emergency calls , what are the top town ships for 911 calls? and what are the most common reasons for it by making some data analysis of the existing dataset. Check my post on Medium 
 
 # Licensing, Authors, Acknowledgements
